@@ -1,9 +1,12 @@
 # ddd | Domain Driven Design
 
-DDD 패턴을 적용한 웹 어플리케이션
+<img align="right" src="https://github.com/jeongwon201/spring-webflux/assets/81132541/3e7997d0-0dd2-4bba-84e2-5c5584cfecd0" width="200px"/>
+<h3 align="left">Domain Driven Design 학습 및 실습 자료입니다.</h3>
+<br />
+<br />
+<br />
 
-- 간단한 계정 API으로, 계정 생성, 수정, 삭제, 조회 기능 구현 <br />
-- 계정 생성 시 SMTP를 이용하여 생성된 이메일 주소로 환영 메시지 전송
+## 목차
 
-> application.yml - mail의 username, password를 사용중인 네이버 계정으로 변경<br />
-> MailComponent - createMail 메서드의 message.setFrom("naver email"); 부분 사용중인 네이버 이메일로 변경
+- <a href="https://github.com/jeongwon201/ddd/tree/main/simple-application">Simple Application</a>
+  - DDD 아키텍처를 적용한 간단한 웹 애플리케이션
