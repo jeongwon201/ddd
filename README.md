@@ -1,6 +1,6 @@
 # ddd | Domain Driven Design
 
-<img align="right" src="https://github.com/jeongwon201/spring-webflux/assets/81132541/3e7997d0-0dd2-4bba-84e2-5c5584cfecd0" width="200px"/>
+<img align="right" src="https://github.com/jeongwon201/ddd/assets/81132541/26d78df8-7f4e-4ea4-a940-cca8c38338ef" height="170px"/>
 <h3 align="left">Domain Driven Design 학습 및 실습 자료입니다.</h3>
 <br />
 <br />
