@@ -1,4 +1,4 @@
-# ddd-basic | Domain Driven Design 기초
+# ddd | Domain Driven Design
 
 DDD 패턴을 적용한 웹 어플리케이션
 
