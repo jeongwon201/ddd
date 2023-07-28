@@ -1,4 +1,4 @@
-package com.ddd.account.domain;
+package com.ddd.simpleapplication.account.domain;
 
 import org.springframework.data.repository.Repository;
 

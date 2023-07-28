@@ -1,4 +1,4 @@
-package com.ddd.account.domain;
+package com.ddd.simpleapplication.account.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Embeddable;

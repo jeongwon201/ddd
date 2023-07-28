@@ -1,8 +1,8 @@
-package com.ddd.account.application;
+package com.ddd.simpleapplication.account.application;
 
-import com.ddd.account.domain.Account;
-import com.ddd.account.domain.AccountId;
-import com.ddd.account.domain.AccountRepository;
+import com.ddd.simpleapplication.account.domain.Account;
+import com.ddd.simpleapplication.account.domain.AccountId;
+import com.ddd.simpleapplication.account.domain.AccountRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,9 +1,9 @@
-package com.ddd.account.presentation;
+package com.ddd.simpleapplication.account.presentation;
 
-import com.ddd.account.application.AccountRequest;
-import com.ddd.account.application.AccountService;
-import com.ddd.account.domain.Account;
-import com.ddd.account.domain.AccountId;
+import com.ddd.simpleapplication.account.application.AccountRequest;
+import com.ddd.simpleapplication.account.application.AccountService;
+import com.ddd.simpleapplication.account.domain.Account;
+import com.ddd.simpleapplication.account.domain.AccountId;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

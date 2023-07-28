@@ -1,7 +1,7 @@
-package com.ddd.account.infrastructure;
+package com.ddd.simpleapplication.account.infrastructure;
 
-import com.ddd.account.application.WelcomeMailSender;
-import com.ddd.account.domain.AccountId;
+import com.ddd.simpleapplication.account.application.WelcomeMailSender;
+import com.ddd.simpleapplication.account.domain.AccountId;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.stereotype.Component;
 

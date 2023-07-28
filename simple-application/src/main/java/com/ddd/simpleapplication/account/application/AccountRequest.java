@@ -1,4 +1,4 @@
-package com.ddd.account.application;
+package com.ddd.simpleapplication.account.application;
 
 public class AccountRequest {
     private String id;
